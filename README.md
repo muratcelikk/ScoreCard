@@ -2,7 +2,7 @@
 - Intellij IDEA 2021.1
 - Java 1.8 version
 - XAMPP v3.2.4(for MYSQL)
-- Spring Boot (I used MVC in Spring Boot.)
+- Spring Boot (I used MVC in Spring Boot)
 - JDBC 
 
 # Install:
@@ -13,14 +13,17 @@
 - spring initializr used.(https://start.spring.io/)
 
 # Used Dependency;
+		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-jasper -->
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
