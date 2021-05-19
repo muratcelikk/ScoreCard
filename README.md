@@ -6,11 +6,14 @@
 - JDBC
 - JSP 
 - BootStrap
-- 
+
 # Install:
 - As IDE, "Intellij idea 2021.1" version install.
 - As database,"MySQL" install. (in XAMPP v3.2.4)
-- projem.sql (SQL Folder in Project) 
+- projem.sql (in SQL Folder) 
+- XAMPP Control panel -->Apache(start)->MySQL(start)-->Mysql(Admin)
+- Create the database name. Database name: "projem" and "utf8_turkish_ci" create.
+- projem.sql import.
 - Download the project. https://github.com/muratcelikk/ScoreCard  Code->Download ZIP(download)
 - Set up the project at IDE. (Open->ScoreCard-master->OK->Trust Project)
 - Project run.
