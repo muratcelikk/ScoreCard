@@ -61,12 +61,12 @@ http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
 <a href="https://github.com/muratcelikk/ScoreCard/blob/master/image/2.png" target="_blank">
 <img src="https://github.com/muratcelikk/ScoreCard/blob/master/image/2.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20131.jpg" target="_blank">
-<img src="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20131.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/muratcelikk/ScoreCard/blob/master/image/3-RestApi.png" target="_blank">
+<img src="https://github.com/muratcelikk/ScoreCard/blob/master/image/3-RestApi.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20132.jpg" target="_blank">
-<img src="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20132.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/muratcelikk/ScoreCard/blob/master/image/5-Person.png" target="_blank">
+<img src="https://github.com/muratcelikk/ScoreCard/blob/master/image/5-Person.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20133.jpg" target="_blank">
-<img src="https://github.com/muratcelikk/LibraryApp/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20133.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/muratcelikk/ScoreCard/blob/master/image/4-Total_score.png" target="_blank">
+<img src="https://github.com/muratcelikk/ScoreCard/blob/master/image/4-Total_score.png" width="200" style="max-width:100%;"></a>
 </p>
