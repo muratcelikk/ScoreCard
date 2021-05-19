@@ -13,8 +13,7 @@
 - As database, install "MySQL". (in XAMPP v3.2.4)
 - XAMPP Control panel -->Apache(start)->MySQL(start)-->Mysql(Admin)
 - Create the database name. Database name: "projem" and "utf8_turkish_ci"
-- projem.sql (in SQL Folder) 
-- projem.sql import. (in Mysql)
+- Install projem.sql mysql (SQL Folder in Project) DB ok.
 - Download the project. https://github.com/muratcelikk/ScoreCard  Code->Download ZIP(download)
 - Set up the project at IDE. (Open->ScoreCard-master->OK->Trust Project)
 - Project run.
