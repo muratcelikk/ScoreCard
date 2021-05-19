@@ -7,11 +7,11 @@
 - JDBC 
 
 # Install:
-As IDE, "Intellij idea 2021.1" version install.
-As database,"MySQL" install. (in XAMPP v3.2.4)
+- As IDE, "Intellij idea 2021.1" version install.
+- As database,"MySQL" install. (in XAMPP v3.2.4)
 
 # Project for Template;
-spring initializr used.(https://start.spring.io/)
+- spring initializr used.(https://start.spring.io/)
 
 # Used Dependency;
 		<dependency>
@@ -36,9 +36,9 @@ spring initializr used.(https://start.spring.io/)
 
 # RestApi;
 http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
-In the use of RestApi, apikey is used. (apikey=>82207c62ea6b8e93d3a57f109781e910)
-for apikey, I used MD5. (http://www.md5.cz/)
+- In the use of RestApi, apikey is used. (apikey=>82207c62ea6b8e93d3a57f109781e910)
+- for apikey, I used MD5. (http://www.md5.cz/)
 
 # Missing aspects of the project;
-The score test result could not be brought.
+- The score test result could not be brought.
 
