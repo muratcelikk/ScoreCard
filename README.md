@@ -12,7 +12,7 @@
 - Install JDK 1.8
 - As database, install "MySQL". (in XAMPP v3.2.4)
 - XAMPP Control panel -->Apache(start)->MySQL(start)-->Mysql(Admin)
-- Create the database name. Database name: "projem" and "utf8_turkish_ci" create.
+- Create the database name. Database name: "projem" and "utf8_turkish_ci"
 - projem.sql (in SQL Folder) 
 - projem.sql import. (in Mysql)
 - Download the project. https://github.com/muratcelikk/ScoreCard  Code->Download ZIP(download)
