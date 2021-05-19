@@ -21,7 +21,7 @@
 - For RestApi; http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
 
 ## Project for Template;
-- spring initializr used.(https://start.spring.io/)
+- Spring initializr used.(https://start.spring.io/)
 
 ## Used Dependency;
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
