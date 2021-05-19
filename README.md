@@ -45,21 +45,21 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v2.4.5)
 
-/ * 2021-05-19 16:45:38.384  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : Starting ScoreCardApplication using Java 16.0.1 on DESKTOP-V92AUKO with PID 8456 (C:\Users\Murat Çelik\Desktop\ScoreCard-master\target\classes started by Murat Çelik in C:\Users\Murat Çelik\Desktop\ScoreCard-master)
-2021-05-19 16:45:38.412  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : No active profile set, falling back to default profiles: default
-2021-05-19 16:45:45.012  INFO 8456 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-2021-05-19 16:45:45.059  INFO 8456 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2021-05-19 16:45:45.059  INFO 8456 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
-2021-05-19 16:45:46.793  INFO 8456 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-2021-05-19 16:45:46.824  INFO 8456 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2021-05-19 16:45:46.840  INFO 8456 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7972 ms
-Baglanti Basarili
-Baglanti Basarili
-Baglanti Basarili
-2021-05-19 16:45:50.281  INFO 8456 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2021-05-19 16:45:51.265  INFO 8456 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2021-05-19 16:45:51.312  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : Started ScoreCardApplication in 15.437 seconds (JVM running for 25.358)
-* /
+- 2021-05-19 16:45:38.384  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : Starting ScoreCardApplication using Java 16.0.1 on DESKTOP-V92AUKO with PID - 8456 (C:\Users\Murat Çelik\Desktop\ScoreCard-master\target\classes started by Murat Çelik in C:\Users\Murat Çelik\Desktop\ScoreCard-master)
+- 2021-05-19 16:45:38.412  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : No active profile set, falling back to default profiles: default
+- 2021-05-19 16:45:45.012  INFO 8456 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+- 2021-05-19 16:45:45.059  INFO 8456 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+- 2021-05-19 16:45:45.059  INFO 8456 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+- 2021-05-19 16:45:46.793  INFO 8456 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug - - logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP -  - compilation time.
+- 2021-05-19 16:45:46.824  INFO 8456 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+- 2021-05-19 16:45:46.840  INFO 8456 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7972 ms
+- Baglanti Basarili
+- Baglanti Basarili
+- Baglanti Basarili
+- 2021-05-19 16:45:50.281  INFO 8456 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+- 2021-05-19 16:45:51.265  INFO 8456 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+- 2021-05-19 16:45:51.312  INFO 8456 --- [           main] com.muratcelik.ScoreCardApplication      : Started ScoreCardApplication in 15.437 seconds (JVM running for 25.358)
+
 
 # RestApi;
 http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
