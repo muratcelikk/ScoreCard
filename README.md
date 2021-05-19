@@ -54,7 +54,7 @@ http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
 
 ## Missing Aspects of the Project;
 - The score test result could not be brought.
-- 
+
 ## Project Image
 
 <p>
