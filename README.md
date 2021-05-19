@@ -1,7 +1,4 @@
-# ScoreCard
-Spring Boot ta Spring Mvc - JDBC
-
-Used Technologies;
+## Used Technologies;
 Intellij IDEA 2021.1
 Java 1.8 version
 XAMPP v3.2.4(for MYSQL)
