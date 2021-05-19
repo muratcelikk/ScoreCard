@@ -2,7 +2,6 @@
 - Intellij IDEA 2021.1
 - Java 1.8 version
 - XAMPP v3.2.4(for MYSQL)
-- MYSQL 8.0.24
 - Spring Boot (I used MVC in Spring Boot.)
 - JDBC 
 
