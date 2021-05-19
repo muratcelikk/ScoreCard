@@ -1,4 +1,4 @@
-## Used Technologies;
+# Used Technologies;
 - Intellij IDEA 2021.1
 - Java 1.8 version
 - XAMPP v3.2.4(for MYSQL)
@@ -7,7 +7,7 @@
 - JSP 
 - BootStrap
 
-# Install:
+## Install:
 - As IDE, "Intellij idea 2021.1" version install.
 - As database,"MySQL" install. (in XAMPP v3.2.4)
 - projem.sql (in SQL Folder) 
@@ -18,10 +18,10 @@
 - Set up the project at IDE. (Open->ScoreCard-master->OK->Trust Project)
 - Project run.
 
-# Project for Template;
+## Project for Template;
 - spring initializr used.(https://start.spring.io/)
 
-# Used Dependency;
+## Used Dependency;
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -44,11 +44,11 @@
 			<version>8.0.24</version>
 		</dependency>
 
-# RestApi;
+## RestApi;
 http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
 - At RestApi, I used the apikey. (apikey=>82207c62ea6b8e93d3a57f109781e910)
 - For apikey, I used MD5. (http://www.md5.cz/)
 
-# Missing Aspects of the Project;
+## Missing Aspects of the Project;
 - The score test result could not be brought.
 
