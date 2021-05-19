@@ -3,12 +3,14 @@
 - Java 1.8 version
 - XAMPP v3.2.4(for MYSQL)
 - Spring Boot (I used MVC in Spring Boot)
-- JDBC 
-
+- JDBC
+- JSP 
+- BootStrap
+- 
 # Install:
 - As IDE, "Intellij idea 2021.1" version install.
 - As database,"MySQL" install. (in XAMPP v3.2.4)
-- projem.
+- projem.sql (SQL Folder in Project) 
 - Download the project. https://github.com/muratcelikk/ScoreCard  Code->Download ZIP(download)
 - Set up the project at IDE. (Open->ScoreCard-master->OK->Trust Project)
 - Project run.
