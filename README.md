@@ -48,8 +48,8 @@
 		</dependency>
 
 ## RestApi;
-http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
-- At RestApi, I used the apikey. (apikey=>82207c62ea6b8e93d3a57f109781e910)
+
+- I used the apikey. (apikey=>82207c62ea6b8e93d3a57f109781e910)
 - For apikey, I used MD5. (http://www.md5.cz/)
 
 ## Missing Aspects of the Project;
