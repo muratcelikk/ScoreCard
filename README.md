@@ -17,6 +17,8 @@
 - Download the project. https://github.com/muratcelikk/ScoreCard  Code->Download ZIP(download)
 - Set up the project at IDE. (Open->ScoreCard-master->OK->Trust Project)
 - Project run.
+- Browser->url->run url: http://localhost:8080/  (Person Add form)
+- For RestApi; http://localhost:8080/allPerson?apiKey=82207c62ea6b8e93d3a57f109781e910
 
 ## Project for Template;
 - spring initializr used.(https://start.spring.io/)
