@@ -5,7 +5,7 @@
 - Spring Boot (I used MVC in Spring Boot)
 - JDBC
 - JSP 
-- BootStrap
+- Bootstrap
 
 ## Install:
 - As IDE, "Intellij idea 2021.1" version install.
